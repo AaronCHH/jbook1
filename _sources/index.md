@@ -10,6 +10,7 @@ Here is a note!
 And here is a code block:
 
 ```
+# This is a comment
 e = mc^2
 ```
 
